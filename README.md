@@ -2,10 +2,6 @@
 
 This repository contains a Java implementation of the Vigenère Cipher. The program allows the user to either encrypt or decrypt a text file using a provided key.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Prerequisites
 
 You will need Java installed on your machine to run this program.
