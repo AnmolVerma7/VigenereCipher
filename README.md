@@ -10,33 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 You will need Java installed on your machine to run this program.
 
-### Installing
-
-1. Clone this repository to your local machine.
-
-    ```
-    git clone https://github.com/AnmolVerma7/VigenereCipher.git
-    ```
-
-2. Navigate to the cloned repository.
-
-    ```
-    cd VigenereCipher
-    ```
-
 ## Usage
-
-1. Compile the Java program.
-
-    ```
-    javac src/Controller/AppManager.java
-    ```
-
-2. Run the compiled Java program.
-
-    ```
-    java src/Controller/AppManager
-    ```
 
 You will be prompted to enter the following:
 
